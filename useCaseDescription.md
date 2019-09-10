@@ -1,4 +1,4 @@
-<h3>Caso de Uso:</h3> Cadastrar Usuário<br>
+<h2>Caso de Uso:</h2> Cadastrar Usuário<br>
 <h3>Referências:</h3> CSU001<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o cliente deseja entrar pela primeira vez no aplicativo para realizar ou não a reserva de um hotel para seu pet.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -14,7 +14,7 @@
 5a. Sistema verifica e realça algum dado preenchido incorretamente.<br>
 5b. Cliente preenche novamente o campo que estava incorreto e confirma os dados.<br>
 
-<h3>Caso de Uso:</h3> Efetuar Login<br>
+<h2>Caso de Uso:</h2> Efetuar Login<br>
 <h3>Referências:</h3> CSU002<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o cliente deseja entrar no aplicativo.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -30,7 +30,7 @@
 2b. Sistema exibe a mensagem de que algum dos dados foi preenchido incorretamente.<br>
 2c. Após a terceira tentativa de login, caso apenas o campo “Usuário” esteja correto, é enviado um e-mail automaticamente para o cliente que possibilita que ele redefina sua senha.<br>
 
-<h3>Caso de Uso:</h3> Cadastrar Animal<br>
+<h2>Caso de Uso:</h2> Cadastrar Animal<br>
 <h3>Referências:</h3> CSU003<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o cliente realiza o login no aplicativo ou ao tentar realizar uma reserva para seu pet.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -48,7 +48,7 @@
 4a. Sistema verifica e realça algum dado preenchido incorretamente.<br>
 4b. Cliente preenche novamente o campo que estava incorreto e confirma os dados.<br>
 
-<h3>Caso de Uso:</h3> Editar Animal<br>
+<h2>Caso de Uso:</h2> Editar Animal<br>
 <h3>Referências:</h3> CSU004<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o cliente deseja modificar alguma informação relacionada a seu pet.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -64,7 +64,7 @@
 5a. O sistema verifica e realça algum dado alterado de forma incorreta.<br>
 5b. Cliente preenche novamente o campo incorreto e seleciona a opção “Alterar”.<br>
 
-<h3>Caso de Uso:</h3> Excluir Animal<br>
+<h2>Caso de Uso:</h2> Excluir Animal<br>
 <h3>Referências:</h3> CSU005<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o cliente deseja excluir os dados de seu pet cadastrados no aplicativo.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -79,7 +79,7 @@
 <h3>Fluxo Alternativo:</h3><br>
 4a. Cliente seleciona a opção “Cancelar” e o cadastro do pet continua registrado no sistema.<br>
 
-<h3>Caso de Uso:</h3> Cadastrar Hotel<br>
+<h2>Caso de Uso:</h2> Cadastrar Hotel<br>
 <h3>Referências:</h3> CSU006<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o administrador do hotel de animais de estimação deseja cadastrar seu estabelecimento no sistema.<br>
 <h3>Ator(es):</h3> Administrador (do hotel)<br>
@@ -95,7 +95,7 @@
 5a. Sistema verifica e realça algum dado preenchido incorretamente.<br>
 5b. Administrador preenche novamente o campo que estava incorreto e confirma os dados.<br>
 
-<h3>Caso de Uso:</h3> Editar Hotel<br>
+<h2>Caso de Uso:</h2> Editar Hotel<br>
 <h3>Referências:</h3> CSU007<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o administrador do hotel deseja modificar alguma informação relacionada a seu estabelecimento.<br>
 <h3>Ator(es):</h3> Administrador (do hotel)<br>
@@ -111,7 +111,7 @@
 5a. O sistema verifica e realça algum dado do hotel alterado de forma incorreta.<br>
 5b. Administrador preenche novamente o campo incorreto e seleciona a opção “Alterar”.<br>
 
-<h3>Caso de Uso:</h3> Desativar Hotel<br>
+<h2>Caso de Uso:</h2> Desativar Hotel<br>
 <h3>Referências:</h3> CSU008<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o administrador do hotel deseja desativar o hotel.<br>
 <h3>Ator(es):</h3> Administrador (do hotel)<br>
@@ -128,7 +128,7 @@
 <h3>Fluxo Alternativo:</h3><br>
 4a. Administrador seleciona a opção “Cancelar” e o cadastro do hotel continua registrado no sistema.<br>
 
-<h3>Caso de Uso:</h3> Buscar Hotel<br>
+<h2>Caso de Uso:</h2> Buscar Hotel<br>
 <h3>Referências:</h3> CSU009<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o cliente deseja encontrar um ou mais hotéis disponíveis para hospedar o seu pet.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -144,7 +144,7 @@
 3b. Sistema realça e avisa da obrigatoriedade do campo que faltou ser preenchido.<br>
 4a. Caso não haja hotel cadastrado que atenda ao que o cliente procura, o sistema exibe a mensagem “Não foram encontrados resultados para sua busca”.<br>
 
-<h3>Caso de Uso:</h3> Avaliar Hotel <br>
+<h2>Caso de Uso:</h2> Avaliar Hotel <br>
 <h3>Referências:</h3> CSU010<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o cliente deseja avaliar um hotel em que seu pet já esteve hospedado.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -165,7 +165,7 @@
 3b. Sistema realça e avisa da obrigatoriedade do campo que faltou ser preenchido.<br>
 4a. Caso não haja hotel cadastrado que atenda ao que o cliente procura, o sistema exibe a mensagem “Não foram encontrados resultados para sua busca”.<br>
 
-<h3>Caso de Uso:</h3> Agendar Reserva<br>
+<h2>Caso de Uso:</h2> Agendar Reserva<br>
 <h3>Referências:</h3> CSU011<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o cliente escolhe um hotel para hospedar seu pet durante um determinado período.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -183,7 +183,7 @@
 3a. Hotel não atende o tipo de animal cadastrado pelo cliente.<br>
 3b. Cliente refina a busca de hotéis para as características do animal cadastrado.<br>
 
-<h3>Caso de Uso:</h3> Editar Reserva<br>
+<h2>Caso de Uso:</h2> Editar Reserva<br>
 <h3>Referências:</h3> CSU012<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o cliente deseja alterar o período de reserva do hotel para seu pet.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -201,7 +201,7 @@
 <h3>Fluxo Alternativo:</h3><br>
 3a. Sistema exibe mensagem de que não há datas disponíveis para alteração da reserva.<br>
 
-<h3>Caso de Uso:</h3> Excluir Reserva<br>
+<h2>Caso de Uso:</h2> Excluir Reserva<br>
 <h3>Referências:</h3> CSU013<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o cliente deseja cancelar o período a reserva do hotel agendada para seu pet.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -216,7 +216,7 @@
 <h3>Fluxo Alternativo:</h3><br>
 3a. Cliente seleciona a opção “Cancelar” e a reserva em questão continua inalterada.<br>
 
-<h3>Caso de Uso:</h3> Editar Quarto<br>
+<h2>Caso de Uso:</h2> Editar Quarto<br>
 <h3>Referências:</h3> CSU014<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o administrador seleciona o menu “Meu hotel” e clica em “Editar quarto”.<br>
 <h3>Ator(es):</h3>  Administrador (do hotel)<br>
@@ -232,7 +232,7 @@
 <h3>Fluxo Alternativo:</h3><br>
 5. Administrador clica no botão “Cancelar”.
 
-<h3>Caso de Uso:</h3> Buscar Quarto<br>
+<h2>Caso de Uso:</h2> Buscar Quarto<br>
 <h3>Referências:</h3> CSU015<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o cliente procura um hotel para agendar a reserva, com o objetivo de buscar os quartos do hotel.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -246,7 +246,7 @@
 <h3>Fluxo Alternativo:</h3><br>
 3a. Hotel não atende o tipo de animal cadastrado pelo cliente.<br>
 
-<h3>Caso de Uso:</h3> Cadastrar Quarto<br>
+<h2>Caso de Uso:</h2> Cadastrar Quarto<br>
 <h3>Referências:</h3> CSU016 <br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o administrador seleciona o menu “Meu hotel” e clica em “Novo quarto”.<br>
 <h3>Ator(es):</h3> Administrador (dono do hotel)<br>
@@ -263,7 +263,7 @@
 5a. Sistema verifica e realça algum dado preenchido incorretamente.<br>
 5b. Cliente preenche novamente o campo que estava incorreto e confirma os dados.<br>
 
-<h3>Caso de Uso:</h3> Buscar Reserva<br>
+<h2>Caso de Uso:</h2> Buscar Reserva<br>
 <h3>Referências:</h3> CSU017<br>
 <h3>Descrição Geral:</h3> O  caso de uso inicia-se quando o cliente deseja encontrar uma reserva de hotel que foi agendada para seu pet.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -276,7 +276,7 @@
 <h3>Fluxo Alternativo:</h3><br>
 3a. Caso o cliente ainda não tenha agendado nenhuma reserva no aplicativo, sistema exibe a mensagem "Você não realizou nenhuma reserva até o momento".<br>
 
-<h3>Caso de Uso:</h3> Buscar Animal<br>
+<h2>Caso de Uso:</h2> Buscar Animal<br>
 <h3>Referências:</h3> CSU018<br>
 <h3>Descrição Geral:</h3> O  caso de uso inicia-se quando o cliente deseja encontrar um animal dentre os seus pets cadastrados.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
@@ -290,7 +290,7 @@
 3a. Caso o cliente ainda não tenha agendado nenhum pet no aplicativo, sistema exibe a mensagem "Você não possui nenhum pet".<br>
 
 
-<h3>Caso de Uso:</h3> Apagar Quarto<br>
+<h2>Caso de Uso:</h2> Apagar Quarto<br>
 <h3>Referências:</h3> CSU019<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o administrador seleciona o menu “Meu hotel” e clica em “Apagar quarto”.<br>
 <h3>Ator(es):</h3> Administrador (dono do hotel)<br>
@@ -306,7 +306,7 @@
 <h3>Fluxo Alternativo:</h3><br>
 5a. Administrador clica no botão “Cancelar”.<br>
 
-<h3>Caso de Uso:</h3> Editar Usuário<br>
+<h2>Caso de Uso:</h2> Editar Usuário<br>
 <h3>Referências:</h3> CSU020<br>
 <h3>Descrição Geral:</h3> O caso de uso inicia-se quando o usuário deseja editar seu perfil.<br>
 <h3>Ator(es):</h3>  Cliente (dono do pet)<br>
@@ -321,7 +321,7 @@
 <h3>Fluxo Alternativo:</h3><br>
 3a. Administrador seleciona a opção “Cancelar” e os dados não são alterados.<br>
 
-<h3>Caso de Uso:</h3> Excluir Usuário<br>
+<h2>Caso de Uso:</h2> Excluir Usuário<br>
 <h3>Referências:</h3> CSU021<br>
 <h3>Descrição Geral:</h3> O  caso de uso inicia-se quando o cliente deseja excluir todos os seus dados do sistema.<br>
 <h3>Ator(es):</h3> Cliente (dono do pet)<br>
