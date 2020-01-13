@@ -1,9 +1,9 @@
 # Projeto de Software: *PetHoster*
-Este repositório contém os principais artefatos elaborados no segundo semestre de 2019 durante a realização da disciplina de **Projeto de Software** do curso de **Sistemas de Informação** da **Universidade Federal de Goiás** (UFG).
+Este repositório contém os principais artefatos elaborados no segundo semestre de 2019 durante a realização da disciplina de **Projeto de Software**, do curso de **Sistemas de Informação**, da **Universidade Federal de Goiás** (UFG).
 
-Os artefatos produzidos são relativos às fases de análise e projeto de desenvolvimento de software. O sistema escolhido pelo grupo para a confecção do trabalho foi uma aplicação chamada *PetHoster*, que conecta donos de pet com hotéis especializados para hospedagem de animais de estimação.
+Os artefatos produzidos são relativos às fases de análise e projeto de desenvolvimento de software. O sistema escolhido pelo grupo, para a confecção do trabalho, foi uma aplicação chamada *PetHoster*, que conecta donos de pets com hotéis especializados para a hospedagem de animais de estimação.
 
-Em cada um dos dois diretórios gerais deste projeto há a identificação das siglas utilizadas no trabalho.
+Há a identificação das siglas utilizadas no trabalho em cada um dos dois diretórios gerais deste projeto.
 
 ## Participantes do grupo
 - [Fernando Severino](https://github.com/fernandosev)
