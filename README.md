@@ -12,4 +12,4 @@ Há a identificação das siglas utilizadas no trabalho em cada um dos dois dire
 - [Mylena Mariana](https://github.com/myllah) 
 
 ## Professor
-[Rubens de Castro Pereira](https://github.com/rubenscp)
+:man_teacher: [Rubens de Castro Pereira](https://github.com/rubenscp)
